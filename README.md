@@ -2,8 +2,6 @@
 
 Starter code for System Monitor Project in the Object Oriented Programming.
 
-Follow along with the classroom lesson to complete the project!
-
 ![System Monitor](images/monitor.png)
 
 ## Udacity Linux Workspace
