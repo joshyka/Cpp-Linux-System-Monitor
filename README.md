@@ -1,13 +1,13 @@
 # CppND-System-Monitor
 
-Starter code for System Monitor Project in the Object Oriented Programming (https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
+Starter code for System Monitor Project in the Object Oriented Programming.
 
 Follow along with the classroom lesson to complete the project!
 
 ![System Monitor](images/monitor.png)
 
 ## Udacity Linux Workspace
-[Udacity](https://www.udacity.com/) provides a browser-based Linux [Workspace](https://engineering.udacity.com/creating-a-gpu-enhanced-virtual-desktop-for-udacity-497bdd91a505) for students. 
+[Udacity](https://www.udacity.com/) provides a browser-based Linux [Workspace](https://engineering.udacity.com/creating-a-gpu-enhanced-virtual-desktop-for-udacity-497bdd91a505).
 
 You are welcome to develop this project on your local machine, and you are not required to use the Udacity Workspace. However, the Workspace provides a convenient and consistent Linux development environment we encourage you to try.
 
